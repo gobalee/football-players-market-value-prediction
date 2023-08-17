@@ -1,4 +1,4 @@
-# Football Players Market Value Preddiction Model
+# Football Players Market Value Prediction Model
 > **Prepared by: Mohammad Ali** <br>
 > IIT Madras
 1. Football players' data scraped from https://sofifa.com/
